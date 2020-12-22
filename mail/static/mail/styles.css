@@ -1,1 +1,31 @@
+textarea {
+    min-height: 400px;
+}
+
+
+body{
+background-color: #FFFFFF;
+}
+
+
+.u{
+	font-size: 27px;
+	display: inline-block;
+	padding: 5px;
+	
+}
+
+.md{
+border: solid;
+
+}
+
+.view{
+border: 1px solid;
+}
+
+
+
+
+
 
